@@ -10,7 +10,7 @@ fibos.data_dir = "./blockData/seed";
 console.notice("config_dir:", fibos.config_dir);
 console.notice("data_dir:", fibos.data_dir);
 
-var stop_block_num = 11769000;
+var stop_block_num = 11720143;
 
 fibos.load("http", {
 	"http-server-address": "0.0.0.0:8888",
